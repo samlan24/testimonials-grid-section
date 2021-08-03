@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 13px;
+}
+
+:root{
+    --main-violet-color: hsl(263, 55%, 52%);
+    --main-vdg-color: hsl(217, 19%, 35%);
+    --main-vdb-color: hsl(219, 29%, 14%);
+    --main-white-color: hsl(0, 0%, 100%);
+    --main-lg-color: hsl(0, 0%, 81%);
+    --main-lb-color: hsl(210, 46%, 95%);
+
+}
